@@ -90,9 +90,8 @@ List Command Dibawah Aja Owner Lagi Sed Diputusin Ayang 😢
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
-    return `*Selamat ${salam} ${pushname}*
+    return `* Nih List Menu Gwejh*
 *⌚Time Server : ${time}*
-*📚 List-Menu Sabo - MD :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -846,9 +845,10 @@ exports.tos = (ownernomer) => {
 *Qris All Pay : Scan Kode Qris Diatas*
 
 *Q : Uang Donasi Mau Dipake Buat Apaan Bang?*
-*A : Di Pake Buat Beli Apikey*
-*Q : Apikey Apaan Bang?*
-*A : Apikey Tuh Suatu Sistem Biar Lu Bisa Gunain Fitur Bokep Noh*
+*A : Di Pake Buat Beli Apikey Sama Beli Panel*
+*Q : Apikey Sama Panel Apaan Bang?*
+*A : Apikey Tuh Suatu Sistem Biar Lu Bisa Gunain Semua Fitur Bot*
+*A : Kalo Panel Itu Gunanya Buat Jalanin Bot Biar Bot Fast Respon*
 
 *NOTE : MAU DONASI APA LIAT DOANG KONT*
 
