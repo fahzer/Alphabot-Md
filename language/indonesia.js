@@ -90,7 +90,7 @@ List Command Dibawah Aja Owner Lagi Sed Diputusin Ayang 😢
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
-    return `* Nih List Menu Gwejh*
+    return `*Nih List Menu Gwejh*
 *⌚Time Server : ${time}*
 
 ╭─❒ 「 Bot Info 」 
@@ -783,36 +783,39 @@ exports.rules = (prefix) => {
     return `
 *── 「 RULES AND FAQ 」 ──*
 
-1. Jangan spam bot. 🙅
-Sanksi: *❎ WARN/SOFT BLOCK*
+1. Jangan Spam Bot. 🙅
+Sanksi: *Block Permanent*
 
-2. Jangan telepon bot. ☎️
-Sanksi: *❎ SOFT BLOCK*
+2. Jangan Menelpon Bot. ☎️
+Sanksi: *Block Permanent*
 
-3. Jangan mengeksploitasi bot.😖
-Sanksi: *PERMANENT BLOCK*
+3. Jangan Mengeksploitasi Bot.😖
+Sanksi: *Block Permanent*
 
-🗯️ Bot tidak atau lambat merespon ?
-➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan. Tetap patuhi rules‼️
+4. Jangan Meminta Save Kepada Bot/Owner ❎
+Sanksi: *Block Permanent*
 
-🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini masih private dan tidak pernah diperjual belikan ,bijaklah dalam mengetahui penipu.
+*Q : Kenapa Bot Lambat Meresponnya?*
+*A : Mungkin Karena Jaringan, Atau Ter Banned Oleh Whatsapp, Tetap Patuhi Rules ‼️*
 
-🗯️ Boleh saya menambah ke grup?
-➡️ Untuk sementara bot dalam status free to add.
+*Q : Dimana Saya Bisa Mendapatkan Script Bot Ini?*
+*A : Untuk Sementara Script Ini Masih Private*
 
-🗯️ Prefixnya apa ya?
-➡️ Bot ini menggunakan multi prefix. Berarti anda bisa menggunakan prefix #, . , Dan prefix wajar lainnya.
+*Q : Bagaimana Caranya Bot Masuk Ke Group Saya?*
+*A : Bot Bisa Masuk Ke Group Anda Dengan Cara Menyewa Botnya*
 
-🗯️ Kak, kok syaa chat owner tidak direspon?
-➡️ Owner hanya merespon pertanyaan seputar bot Dan kendala eror, tidak untuk kenalan ataupun mengemis script.
+*Q : Prefix Botnya Apa?*
+*A : Bot Ini Menggunakan Multi Prefix, Seperti /,#,. Dan Prefix Wajar Lainnya*
+
+*Q : Kak, Kok Owner Lambat Merespon?*
+*A : Owner Akan Merespon Tentang Seputar Bot, Seperti Bot Error Atau Sewa Bot DLL, Owner Tidak Akan Membalas Chat Dari Orang Yang Meminta Save!*
 
 
-Jika sudah dipahami rules-nya, silakan ketik *${prefix}allmenu* untuk memulai!
+*Jika Sudah Dipahami Rulesnya, Silakan Ketik *${prefix}allmenu* Untuk Melihat Menu Bot*
 
-⚠️ Segala kebijakan dan ketentuan Sabo - MD di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
+*⚠️ Segala kebijakan Dan Ketemtuan Sabo - MD Di Pegang Oleh Owner Dan Segala Perubahan Kebijakan, Sewaktu Waktu Owner Berhak Mencabut, Memblokir User*
 
-Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan Sabo - MD
+Arigatou Gozaimasu! Untuk Kalian User Ramah Dan Beberapa Orang Yg Ikut Membantu Juga Dalam Project Pembuatan Sabo - MD
 😖🙏
 `
 }
@@ -845,10 +848,9 @@ exports.tos = (ownernomer) => {
 *Qris All Pay : Scan Kode Qris Diatas*
 
 *Q : Uang Donasi Mau Dipake Buat Apaan Bang?*
-*A : Di Pake Buat Beli Apikey Sama Beli Panel*
-*Q : Apikey Sama Panel Apaan Bang?*
+*A : Di Pake Buat Beli Apikey*
+*Q : Apikey Apaan Bang?*
 *A : Apikey Tuh Suatu Sistem Biar Lu Bisa Gunain Semua Fitur Bot*
-*A : Kalo Panel Itu Gunanya Buat Jalanin Bot Biar Bot Fast Respon*
 
 *NOTE : MAU DONASI APA LIAT DOANG KONT*
 
