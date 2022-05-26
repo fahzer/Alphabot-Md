@@ -18,21 +18,21 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = true //status online (online)
 
 // Other
-global.botname = "2022 • WPSBOT" //namabot kalian
-global.ownername= "Andrian" //nama kalian
+global.botname = "Sabo - MD" //namabot kalian
+global.ownername= "Sabo" //nama kalian
 global.myweb ="https://chat.whatsapp.com/BXRH5ApRnbaHm6ULbPuG4d" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/NOTHING_Andriann" //bebas asal jan hapus
-global.github = "https://vt.tiktok.com/ZSd4ckwgQ/" //bebas
-global.email = "cekor.store@gmail.com" //bebas
+global.youtube = "https://youtube.com/channel/UCPVHqM42eOQNMTptryIa2dQ" //bebas asal jan hapus
+global.github = "https://github.com/SaboBOTZMD" //bebas
+global.email = "sabooygy@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "6285380779466" // nomor wa kalian
-global.ownernomerr = "+6285380779466" //nmr wa kalian
+global.ownernomer = "628815952469" // nomor wa kalian
+global.ownernomerr = "+628815952469" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6285380779466","6285380779466","6285380779466"] //ganti agar fitur owner bisa di gunakan
-global.packname = 'Instagram' //sticker wm ubah
-global.author = '@cekor.store' //sticker wm ganti nama kalian
+global.owner = ["628815952469","628815952469","628815952469"] //ganti agar fitur owner bisa di gunakan
+global.packname = 'Sabo' //sticker wm ubah
+global.author = 'Sabo - MD' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
