@@ -85,7 +85,7 @@ exports.notNum = (q) => {
     return `"${q}", bukan angka!`
 }
 exports.menunya = (salam, pushname, botname) =>{
-	return`hai *$(pushname)* Selamat *$(salam)* Welcome To Menu *$(botname)* Untuk Melihat Menu Yang Lain Silahkan Klik List Command Di Bawah Ini
+	return`Hai $(pushname) Selamat $(salam) Welcome To Menu $(botname) Untuk Melihat Menu Yang Lain Silahkan Klik List Command Di Bawah Ini
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
