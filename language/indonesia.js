@@ -85,8 +85,7 @@ exports.notNum = (q) => {
     return `"${q}", bukan angka!`
 }
 exports.menunya = (salam, pushname, botname) =>{
-	return`Gaada Menu Menu Langsung Pencet
-List Command Dibawah Aja Owner Lagi Sed Diputusin Ayang 😢 
+	return`hai *$(pushname)* Selamat *$(salam)* Welcome To Menu *$(botname)* Untuk Melihat Menu Yang Lain Silahkan Klik List Command Di Bawah Ini
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
